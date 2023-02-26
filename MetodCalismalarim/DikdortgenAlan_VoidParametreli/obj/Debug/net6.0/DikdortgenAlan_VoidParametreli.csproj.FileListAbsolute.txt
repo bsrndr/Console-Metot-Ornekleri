@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\bin\Debug\net6.0\DikdortgenAlan_VoidParametreli.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\bin\Debug\net6.0\DikdortgenAlan_VoidParametreli.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\bin\Debug\net6.0\DikdortgenAlan_VoidParametreli.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\bin\Debug\net6.0\DikdortgenAlan_VoidParametreli.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\bin\Debug\net6.0\DikdortgenAlan_VoidParametreli.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\refint\DikdortgenAlan_VoidParametreli.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\DikdortgenAlan_VoidParametreli.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdortgenAlan_VoidParametreli\obj\Debug\net6.0\ref\DikdortgenAlan_VoidParametreli.dll

@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\bin\Debug\net6.0\Deneme2.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\bin\Debug\net6.0\Deneme2.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\bin\Debug\net6.0\Deneme2.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\bin\Debug\net6.0\Deneme2.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\bin\Debug\net6.0\Deneme2.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\refint\Deneme2.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\Deneme2.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\Deneme2\obj\Debug\net6.0\ref\Deneme2.dll

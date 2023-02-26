@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\bin\Debug\net6.0\IfadeyiTerstenYazdirma.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\bin\Debug\net6.0\IfadeyiTerstenYazdirma.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\bin\Debug\net6.0\IfadeyiTerstenYazdirma.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\bin\Debug\net6.0\IfadeyiTerstenYazdirma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\bin\Debug\net6.0\IfadeyiTerstenYazdirma.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\refint\IfadeyiTerstenYazdirma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\IfadeyiTerstenYazdirma.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IfadeyiTerstenYazdirma\obj\Debug\net6.0\ref\IfadeyiTerstenYazdirma.dll

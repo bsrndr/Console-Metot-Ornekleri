@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\bin\Debug\net6.0\DiziToplaveOrtBulma.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\bin\Debug\net6.0\DiziToplaveOrtBulma.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\bin\Debug\net6.0\DiziToplaveOrtBulma.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\bin\Debug\net6.0\DiziToplaveOrtBulma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\bin\Debug\net6.0\DiziToplaveOrtBulma.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\refint\DiziToplaveOrtBulma.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\DiziToplaveOrtBulma.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DiziToplaveOrtBulma\obj\Debug\net6.0\ref\DiziToplaveOrtBulma.dll

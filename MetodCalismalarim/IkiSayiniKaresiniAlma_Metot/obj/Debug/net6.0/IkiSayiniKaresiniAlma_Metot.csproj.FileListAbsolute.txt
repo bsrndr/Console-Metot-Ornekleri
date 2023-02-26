@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\bin\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\bin\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\bin\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\bin\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\bin\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\refint\IkiSayiniKaresiniAlma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\IkiSayiniKaresiniAlma_Metot.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniKaresiniAlma_Metot\obj\Debug\net6.0\ref\IkiSayiniKaresiniAlma_Metot.dll

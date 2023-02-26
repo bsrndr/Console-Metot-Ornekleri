@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DikdortgenAlan_VoidParametreli/1.0.0": {
+        "runtime": {
+          "DikdortgenAlan_VoidParametreli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DikdortgenAlan_VoidParametreli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\bin\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\bin\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\bin\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\bin\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\bin\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\refint\IkiSayiniCikarmaİslemi_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\IkiSayiniCikarmaİslemi_Metot.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\IkiSayiniCikarmaİslemi_Metot\obj\Debug\net6.0\ref\IkiSayiniCikarmaİslemi_Metot.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IkiSayiniBolumu_Metot/1.0.0": {
+        "runtime": {
+          "IkiSayiniBolumu_Metot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IkiSayiniBolumu_Metot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

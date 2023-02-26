@@ -1,0 +1,2 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdorgenAlanHesabı_Metot(Void ve Parametresiz)\obj\Debug\net6.0\DikdorgenAlanHesabı_Metot(Void ve Parametresiz).csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\DikdorgenAlanHesabı_Metot(Void ve Parametresiz)\obj\Debug\net6.0\DikdorgenAlanHesabı_Metot(Void ve Parametresiz).GeneratedMSBuildEditorConfig.editorconfig

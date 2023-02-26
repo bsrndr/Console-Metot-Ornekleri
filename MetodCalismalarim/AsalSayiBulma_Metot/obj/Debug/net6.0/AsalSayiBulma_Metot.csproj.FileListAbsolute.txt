@@ -1,0 +1,15 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\bin\Debug\net6.0\AsalSayiBulma_Metot.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\bin\Debug\net6.0\AsalSayiBulma_Metot.deps.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\bin\Debug\net6.0\AsalSayiBulma_Metot.runtimeconfig.json
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\bin\Debug\net6.0\AsalSayiBulma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\bin\Debug\net6.0\AsalSayiBulma_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.AssemblyInfoInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.AssemblyInfo.cs
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\refint\AsalSayiBulma_Metot.dll
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\AsalSayiBulma_Metot.genruntimeconfig.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\25022023_MetodCalismalarim\MetodCalismalarim\AsalSayiBulma_Metot\obj\Debug\net6.0\ref\AsalSayiBulma_Metot.dll
